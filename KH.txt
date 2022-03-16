@@ -10,3 +10,7 @@ String s="Erode";
 TC1(){
 sysout("hello");
 }
+
+TC2(){
+sysout("this is second commit");
+}
