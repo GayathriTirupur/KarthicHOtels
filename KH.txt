@@ -3,3 +3,10 @@ This is the code for KarthikHotels
 Welcome
 
 TO  ERODE
+
+String s="Erode";
+
+@Test
+TC1(){
+sysout("hello");
+}
