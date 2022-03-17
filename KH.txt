@@ -20,3 +20,9 @@ sysout("this is second commit");
 TC3(){
 sysout("Thi is for door deleivery"):
 }
+
+//Door delivery in TEN minutes
+@Test
+TC4(){
+sysout("this id for 10 min delivery");
+}
