@@ -26,3 +26,9 @@ sysout("Thi is for door deleivery"):
 TC4(){
 sysout("this id for 10 min delivery");
 }
+
+//Door delivery in one minutes
+@Test
+TC4(){
+sysout("this id for one min delivery");
+}
